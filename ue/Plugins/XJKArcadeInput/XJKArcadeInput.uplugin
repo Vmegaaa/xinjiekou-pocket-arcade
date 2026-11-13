@@ -1,0 +1,11 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "Xinjiekou Arcade Phone Input",
+  "Description": "Held gamepad input for the original phone arcade. No level or character changes.",
+  "Category": "Input",
+  "EnabledByDefault": true,
+  "CanContainContent": false,
+  "Modules": [{ "Name": "XJKArcadeInput", "Type": "Runtime", "LoadingPhase": "PostEngineInit" }]
+}
